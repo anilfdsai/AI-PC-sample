@@ -13,7 +13,6 @@ Image caption generation is a crucial task in computer vision and natural langua
 - [Run the `finetune_image_captioning.ipynb` sample](./README.md#sample-structure)
    - [Using `uv`](./README.md#using-uv)
    - [AI PC from Intel](./README.md#ai-pc-from-intel)
-   - [Intel® Tiber™ AI Cloud](./README.md#intel-tiber-ai-cloud)
 - [Sample Execution](./README.md#sample-execution)
 
 
