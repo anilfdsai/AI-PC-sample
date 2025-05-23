@@ -46,13 +46,13 @@ This sample directory contains:
 | **Notebook**                            | **Description**                                                                                   |
 | [finetune_image_captioning.ipynb](./finetune_image_captioning.ipynb) | The python script to finetune a VL model for image captioning.       |
 | **Dataset and Annotations**            | **Description**                                                                                    |
-| [InSAR_images](./InSAR_images)     | Contains the 1374 images for the finetuning.                                                           |
-| [annotations](./annotations)       | Each annotation files contains the details about their respective image including their caption.       |
+| [InSAR_images](./Hephaestus_dataset/InSAR_images)     | Contains the 1374 images for the finetuning.                                                           |
+| [annotations](./Hephaestus_dataset/annotations)       | Each annotation files contains the details about their respective image including their caption.       |
 | **Outputs example**                     | **Description**                                                                                    |
-| [loss_vs_epoch.png](./loss_vs_epoch.png) | Plots training loss and validation for each epoch.                                               |
-| [bertscore.png](./bertscore.png)   | Plots the BERT score for the test set before and after finetuning                                      |
-| [results_before_training.csv](./results_before_training.csv)   | Contains the generated caption, actual caption and their BERT score for images from the test set, prior to finetuning |
-| [results_after_training.csv](./results_after_training.csv)   | Contains the generated caption, actual caption and their BERT score for images from the test set, post finetuning |
+| [loss_vs_epoch.png](./assets/loss_vs_epoch.png) | Plots training loss and validation for each epoch.                                               |
+| [bertscore.png](./assets/bertscore.png)   | Plots the BERT score for the test set before and after finetuning                                      |
+| [results_before_training.csv](./assets/results_before_training.csv)   | Contains the generated caption, actual caption and their BERT score for images from the test set, prior to finetuning |
+| [results_after_training.csv](./assets/results_after_training.csv)   | Contains the generated caption, actual caption and their BERT score for images from the test set, post finetuning |
 
 
 
