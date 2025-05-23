@@ -6,15 +6,15 @@ Image caption generation is a crucial task in computer vision and natural langua
 
 ## Contents
 
-- [Sample Workflow](./Readme.md#sample-workflow)
-- [Dataset](./Readme.md#sample-workflow)
-- [Pre-requisites](./Readme.md#pre-requisites)
-- [Structure of this directory](./Readme.md#Structure-of-this-directory)
-- [Run the `finetune_image_captioning.ipynb` sample](./Readme.md#sample-structure)
-   - [Using `uv`](./Readme.md#using-uv)
-   - [AI PC from Intel](./Readme.md#ai-pc-from-intel)
-   - [Intel® Tiber™ AI Cloud](./Readme.md#intel-tiber-ai-cloud)
-- [Sample Execution](./Readme.md#sample-execution)
+- [Sample Workflow](./README.md#sample-workflow)
+- [Dataset](./README.md#sample-workflow)
+- [Pre-requisites](./README.md#pre-requisites)
+- [Structure of this directory](./README.md#Structure-of-this-directory)
+- [Run the `finetune_image_captioning.ipynb` sample](./README.md#sample-structure)
+   - [Using `uv`](./README.md#using-uv)
+   - [AI PC from Intel](./README.md#ai-pc-from-intel)
+   - [Intel® Tiber™ AI Cloud](./README.md#intel-tiber-ai-cloud)
+- [Sample Execution](./README.md#sample-execution)
 
 
 ## Sample Workflow
